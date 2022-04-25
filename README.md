@@ -6,7 +6,7 @@
 > [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lifecream&show_icons=true&theme={theme})](https://github.com/Lifecream/github-readme-stats) 　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifecream)](https://github.com/Lifecream/github-readme-stats)
 
 
-# Who I am?
+# Who am I?
 -----
 > - ##### Age : 2006.06.27 ~ (17 years old)
 > - ##### Residence : [Daejeon / Korea](https://www.google.com/maps/place/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C)
