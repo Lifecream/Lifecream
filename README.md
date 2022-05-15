@@ -12,7 +12,7 @@
 > - ##### Residence : [Daejeon / Korea](https://www.google.com/maps/place/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C)
 > - ##### Attending [Ordinary Highschool](https://www.google.com/maps/place/%EB%8C%80%EC%A0%84%EB%8F%84%EC%95%88%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90)
 > - ##### [2022 Ctrl-C Highschool Club](https://github.com/Lifecream/2022-Ctrl-C-Activities) 
-> - ##### Software Maestro 13th Gen (2022.04 ~ )
+> - ##### [Software Maestro](https://www.swmaestro.org/) 13th Gen (2022.04 ~ )
 
 
 # Algorithm Study (2019 ~ )
