@@ -7,15 +7,13 @@
 
 # Who am I?
 -----
-> - ##### Age : 2006.06.27 ~ (17 years old)
+> - ##### Age : 2006.06.27 ~ 
 > - ##### [Software Maestro](https://www.swmaestro.org/) 13th Gen (2022.04 ~ )
 
 # Algorithm Study (2019 ~ )
 -----
-##### By using C++, I improve my Algorithm & Data-structure skills  
  - >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lifecream&repo=C-Cpp-Algorithm)](https://github.com/Lifecream/C-Cpp-Algorithm)
     
-    My Repository where Most of My Codes are collected 
 
 
 - >[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifecream)](https://solved.ac/lifecream)
