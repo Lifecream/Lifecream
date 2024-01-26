@@ -19,7 +19,7 @@
 - >[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifecream)](https://solved.ac/lifecream)
     
     Baekjoon: <https://www.acmicpc.net/user/lifecream>
+- > *입시로 인한 알고리즘 스터디 중단했습니다.*
 
 # Contact
 > - ##### Email: lifecream@icloud.com
-> - ##### Phone: 010-4087-0627
