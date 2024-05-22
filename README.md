@@ -8,7 +8,7 @@
 # Who am I?
 -----
 > - ##### Age : 2006.06.27 ~ 
-> - ##### [Software Maestro](https://www.swmaestro.org/) 13th Gen (2022.04 ~ )
+> - ##### [Software Maestro](https://www.swmaestro.org/) 13th Gen (2022.04 ~ 2022.12)
 
 # Algorithm Study (2019 ~ )
 -----
